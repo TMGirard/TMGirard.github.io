@@ -10877,10 +10877,6 @@ form .row:first-child .floating-label-form-group {
 
 /* slideshow settings */
 
-* {
-  box-sizing: border-box;
-}
-
 /* Position the image container (needed to position the left and right arrows) */
 .slideshowContainer {
   position: relative;
